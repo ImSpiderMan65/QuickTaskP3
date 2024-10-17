@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     public Camera playerCamera;
     
     public GameObject pauseScreen;
+
     private GameObject player;
     // Start is called before the first frame update
     void Start()
